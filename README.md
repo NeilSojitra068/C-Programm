@@ -1,4 +1,4 @@
 # C-Programm
-NEIL SOJITRA
-Student Of CSBS (PDEU)
-Temporary Roll NO:-25BCBT068
+NEIL SOJITRA \n
+Student Of CSBS (PDEU) \n
+Temporary Roll NO:-25BCBT068 \n
