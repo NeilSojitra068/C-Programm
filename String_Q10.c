@@ -6,7 +6,8 @@ int main(){
     gets(str);
     printf("Vertical String :\n");
     for(int i=0;str[i]!='\0';i++){
-      printf("%s\n",str[i]);
+      printf("%c\n",str[i]);
     }
 return 0;
 }
+
