@@ -10,7 +10,7 @@ int main(){
 
     for(int i =0;i<50;i++){
     if (n[i]==1){
-        sum=sum+n[i];
+        sum=sum+1;
     }
     }
     printf("No Of Male :- %d",sum);
@@ -18,7 +18,7 @@ int main(){
 
     for(int i =0;i<50;i++){
     if (n[i]==2){
-        sumn=sumn+n[i];
+        sumn=sumn+1;
         }
     }
       printf("No Of Female :- %d",sumn);
