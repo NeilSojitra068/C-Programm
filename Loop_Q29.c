@@ -3,7 +3,7 @@ int main(){
     int n,i;
     printf("Enter No :");
     scanf("%d",&n);
-    if (n<=2) {
+    if (n==2) {
         printf(" %d Is Prime Number ",n);
         return 0;
         }
