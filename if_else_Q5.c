@@ -6,7 +6,7 @@
 
 int main(){
     float a;
-    printf("Enter Gross Sales :",a);
+    printf("Enter Gross Sales :");
     scanf("%f",&a);
 
     if(a>20000){
@@ -21,3 +21,4 @@ int main(){
         printf("Net Sales %f \n :",a-0.05*a);
 return 0;
 }
+
