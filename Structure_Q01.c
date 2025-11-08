@@ -17,6 +17,7 @@ for(int i=0;i<10;i++){
     scanf("%d",&s[i].roll);
 
     printf("Enter Name :");
+    fflush(stdin);
     gets(s[i].name);
 
     printf("Enter Course :");
@@ -55,3 +56,4 @@ for(int i=0;i<10;i++){
     if(m!=1) printf("Invalid Roll no");
    return 0;
 }
+
