@@ -7,7 +7,7 @@ void printName5(char name[], int cnt) {
 }
 
 int main() {
-    char name[100] = "YourName";
+    char name[100] = "Neil";
     printf("Printing name 5 times:\n");
     printName5(name, 5);
     return 0;
